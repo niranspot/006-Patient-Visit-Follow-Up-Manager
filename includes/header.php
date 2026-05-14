@@ -59,7 +59,7 @@ require_once dirname(__DIR__) . '/auth/check.php';
         </div> -->
         <div class="brand">
             <!-- <i class="bi bi-heart-pulse-fill brand-icon"></i> -->
-            <img src="<?= BASE_URL ?>assets/img/capminds_logo.png" alt="Logo" class="brand-img">
+            <img src="<?= BASE_URL ?>assets/img/capmind" alt="Logo" class="brand-img">
 
             <span class="brand-name">Healthcare</span>
 

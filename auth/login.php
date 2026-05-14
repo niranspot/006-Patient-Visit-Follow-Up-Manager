@@ -143,7 +143,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <div class="login-card">
     <div class="login-logo">
-        <img src="<?= BASE_URL ?>assets/img/capminds_logo.png" alt="Logo" style="width:48px; height:48px;">
+        <img src="<?= BASE_URL ?>assets/img/cap" alt="Logo" style="width:48px; height:48px;">
         <h4>HealthCare System</h4>
         <p>Sign in to your account</p>
     </div>
